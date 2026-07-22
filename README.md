@@ -699,6 +699,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Janeesh](https://github.com/janeeshgithub)
   - [Jeba Rachel Nesica](https://github.com/Jeba-Rachel-Nesica)
   - [Jahnavika gopal](https://github.com/JahnavikaGopalbvrith)
+  - [Jayr Rolloque](https://github.com/jayr4443)
     | [`Back To Top`](#contents) |
 
 
